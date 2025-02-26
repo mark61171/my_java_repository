@@ -6,6 +6,7 @@ public class LabActivity1EmployeeInformationSystem {
 		
 		Scanner scan = new Scanner(System.in);
 		
+		// employee input
 		System.out.print("Enter your first name: ");
 		String firstName = scan.nextLine();
 		
@@ -21,14 +22,16 @@ public class LabActivity1EmployeeInformationSystem {
 		System.out.print("Enter hourly wage: ");
 		float hourlyWage = scan.nextFloat();
 		
+		// calculate daily salary
 		float dailySalary = hoursWorked * hourlyWage;
 		
+		// Display employee information
 		System.out.println("\n");
 		
 		System.out.println("Employee Information");
 		System.out.println("---------------------");
 		System.out.println("Full Name   : " + firstName + " " + lastName);
-		System.out.println("age	    : " + age + " years old");
+		System.out.println("Age	    : " + age + " years old");
 		System.out.printf("Daily Salary: PHP %.2f",  dailySalary);
 		
 		

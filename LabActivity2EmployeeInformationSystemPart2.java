@@ -46,13 +46,13 @@ public class LabActivity1EmployeeInformationSystem2 {
 		System.out.println("Employee Information");
 		System.out.println("---------------------");
 		System.out.println("Full Name: \t\t" + fullName);
-        System.out.println("Age: \t\t\t " + age + " years old");
-        System.out.println("Years to Retirement: \t" + ageForRetirement + " years");
-        System.out.printf("Daily Salary:\t\t Php %.2f%n", dailySalary);
-        System.out.printf("Weekly Salary:\t\t Php %.2f%n", weeklySalary);
-        System.out.printf("Monthly Salary:\t\t Php %.2f%n", monthlySalary);
-        System.out.printf("Gross Yearly Salary:\t Php %.2f%n", grossYearlySalary);
-        System.out.printf("Net Yearly Salary:\t Php %.2f%n", netYearlySalary);
+        	System.out.println("Age: \t\t\t " + age + " years old");
+        	System.out.println("Years to Retirement: \t" + ageForRetirement + " years");
+        	System.out.printf("Daily Salary:\t\t Php %.2f%n", dailySalary);
+        	System.out.printf("Weekly Salary:\t\t Php %.2f%n", weeklySalary);
+        	System.out.printf("Monthly Salary:\t\t Php %.2f%n", monthlySalary);
+        	System.out.printf("Gross Yearly Salary:\t Php %.2f%n", grossYearlySalary);
+        	System.out.printf("Net Yearly Salary:\t Php %.2f%n", netYearlySalary);
 		
 		
 		

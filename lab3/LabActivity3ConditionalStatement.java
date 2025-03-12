@@ -1,6 +1,6 @@
 package lab2;
 import java.util.Scanner;
-public class LabActivity2EmployeeInformationSystemPart2 {
+public class LabActivity3ConditionalStatement {
 
 	public static void main(String[] args) {
 		

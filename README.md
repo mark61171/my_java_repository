@@ -1,7 +1,6 @@
-# DCIT 23 Java Activities Compilation
+# Java Laboratory Activities Compilation
 
-This repository contains all laboratory activities completed for the DCIT 23 course. Each activity is organized in a separate folder for clarity and ease of navigation.
-
+This repository contains all laboratory activities completed for the DCIT 23 course.
 ## Table of Contents
 
 | Folder                      | Activity Description                                                           |

@@ -32,10 +32,5 @@ java FileName
 
 Replace `FileName` with the class name inside each activity folder.
 
-## License
 
-This project is for educational purposes only.
 
----
-
-**Note**: Ensure all folders (`lab1/` to `lab6/`, `midtermExam/`) are properly included in your GitHub repository before submitting your final URL.

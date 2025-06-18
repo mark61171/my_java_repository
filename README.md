@@ -1,6 +1,6 @@
 # Java Laboratory Activities Compilation
 
-This repository contains all laboratory activities developed for the subject **DCIT 23 – Object-Oriented Programming**. Each folder represents a separate lab exercise, showcasing various core concepts in Java including control structures, user input, GUI design, and more.
+This repository contains all laboratory activities developed for the subject **DCIT 23 – Computer Programming 2**. Each folder represents a separate lab exercise, showcasing various core concepts in Java including control structures, user input, GUI design, and more.
 
 ## Table of Contents
 

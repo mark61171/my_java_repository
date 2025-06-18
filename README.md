@@ -13,7 +13,7 @@ This repository contains all laboratory activities completed for the DCIT 23 cou
 | [lab5](lab5/)               | Quiz Application: Java AWT-based quiz with score tracking                |
 | [lab6](lab6/)               | Swing GUI: A to-do list manager with task add/edit/delete functionality  |
 | [midtermExam](midtermExam/) | Console-based IT Ticketing System with basic status tracking             |
-| [calculator](calculator/)   | Advanced Swing GUI: A calculator with history tracking and math functions |
+| [calculator](Calculator/)   | Advanced Swing GUI: A calculator with history tracking and math functions |
 
 ## General Notes
 
